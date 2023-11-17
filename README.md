@@ -8,7 +8,11 @@ Tutorial on building a web API using C# with Microsoft .NET<br/>
 - Visual Studio (purple icon) NOT vscode (blue icon). Install it from 
 <a href="https://visualstudio.microsoft.com/" target="_blank">here</a>. <br/>
 
-# Tutorial
+# Quick Tutorial
+- Download the <code>Menus API.sln</code> from <a target="blank" href="https://github.com/iskevinlemon/dotnet-web-api/blob/main/Menus%20API.sln">here</a>.<br/>
+- Double click to run the solution.<br/>
+
+# Manual Tutorial
 **Step 1 - Project Setup** <br/>
 - launch Visual Studio and create a new project<br/>
 - choose API as the template. On the dropdown menu, ensure it selects C#. Once done, click continue
